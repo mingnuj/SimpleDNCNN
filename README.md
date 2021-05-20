@@ -11,7 +11,7 @@ Simplified DNCNN example
 * 50 epochs on training
 
 # Options
-* Tensorboard abailable
+* Tensorboard available
 * PSNR checking while training  
   
 Please check comments.  
