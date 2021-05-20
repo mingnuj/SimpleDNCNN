@@ -2,7 +2,7 @@
 Simplified DNCNN example
 
 # Training Setting
-* Not using Residual concept.
+* This model is not using Residual concept.
 * Noise level: 25
 * num_of_layers: 17
 * Image resolution: 128 x 128
