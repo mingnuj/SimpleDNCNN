@@ -8,6 +8,7 @@ DNCNN 논문의 아키텍처를 사용하였습니다.
 * 딥러닝 코드 골조 배포를 위한 코드로, 성능을 높이기 위한 데이터 증가, 파라미터 조정 등의 설정은 전혀 하지 않았습니다.
 * This is the code for providing the code of deeplearning architecture(DNCNN) and learning model pipeline. 
 * There is no setting at all to increase the training performance.
+* 학생들은 성능을 높이기 위한 데이터 증가, 파라미더 조정 등을 구현해야 합니다.
 
 # Training Setting
 * Noise level: 25
